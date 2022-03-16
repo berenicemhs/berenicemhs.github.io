@@ -7,6 +7,12 @@ header {
     border-width: medium;
     border-style: dashed;
     border-radius: 31px;
+    font-family: aladin;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    font-variant: small-caps;
+    text-shadow: -7px 3px 11px #262525;
 		
 }
 body{
@@ -127,4 +133,28 @@ inpunt[type=submit]{
 	background-color: darksalmon;
 	color: aliceblue;
 	cursor: pointer;
+}
+main section h2 {
+    font-family: aladin;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0px;
+    font-size: 44px;
+}
+.p1 {
+    font-family: aladin;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+.p2 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.p3 {
+    font-family: 'Hubballi', cursive;
+    font-size: 20px;
+}
+.p4 {
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
 }
